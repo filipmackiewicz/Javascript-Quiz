@@ -16,7 +16,7 @@ const quizData = [
     }, {
         question: 'Co oznacza rozwinięcie skrótu KISS',
         a: 'Keep it simple satisfying',
-        b: 'Kepp it simple short',
+        b: 'Keep it simple short',
         c: 'Keep it simple solid',
         d: 'Keep it simple stupid',
         correct: 'd'
